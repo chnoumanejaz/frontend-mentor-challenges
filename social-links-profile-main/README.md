@@ -20,10 +20,9 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+![mobile view](https://github.com/chnoumanejaz/frontend-mentor-challenges/assets/66419928/e8f46873-659b-49ed-a449-e5905ae21929)
 
-[![](./mobile view.png)](https://github.com/chnoumanejaz/frontend-mentor-challenges/blob/main/social-links-profile-main/mobile%20view.png)
-[![](./desktop view.png)
-](https://github.com/chnoumanejaz/frontend-mentor-challenges/blob/main/social-links-profile-main/desktop%20view.png)
+![desktop view](https://github.com/chnoumanejaz/frontend-mentor-challenges/assets/66419928/f299c603-d51f-4efe-b6bf-ba6433958ae2)
 
 
 ### Built with
