@@ -21,8 +21,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./mobile view.png)
-![](./desktop view.png)
+[![](./mobile view.png)](https://github.com/chnoumanejaz/frontend-mentor-challenges/blob/main/social-links-profile-main/mobile%20view.png)
+[![](./desktop view.png)
+](https://github.com/chnoumanejaz/frontend-mentor-challenges/blob/main/social-links-profile-main/desktop%20view.png)
+
 
 ### Built with
 
